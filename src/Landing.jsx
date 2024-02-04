@@ -19,7 +19,7 @@ const Landing = () => {
           }}
         >
           <Typography variant="h6" component="div" color={"black"}>
-            테스트 랜딩페이지 테스트
+            테스트 랜딩페이지 테스트 push test
           </Typography>
         </Toolbar>
         <div> </div>
